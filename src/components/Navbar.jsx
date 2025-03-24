@@ -29,10 +29,13 @@ const Navbar = () => {
 
         <div className='flex gap-2'>
 
-            <button><SunMoon size={32} className='text-purple-700 font-bold'/></button>
-            <button className='bg-purple-700 px-3 rounded-xl py-2 text-white'>Login</button>
+            <button>
+                <SunMoon size={32} className='text-purple-700 font-bold'/>
+            </button>
 
-            <button className='bg-purple-700 px-3 rounded-xl py-2 text-white'>Signup</button>
+            <button className='bg-purple-700 px-3 rounded-xl py-2 text-white cursor-pointer'>Login</button>
+
+            <button className='bg-purple-700 px-3 rounded-xl py-2 text-white cursor-pointer'>Signup</button>
 
         </div>
 
