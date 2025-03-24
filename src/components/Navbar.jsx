@@ -14,7 +14,7 @@ const Navbar = () => {
         <div >
      
             
-            <ul className='flex items-center gap-2 text-lg'>
+            <ul className='flex items-center gap-4 text-lg'>
                 <li><a href="#" className='hover:border-b-2 hover:border-purple-700'>Home</a></li>
                 <li><a href="#" className='hover:border-b-2 hover:border-purple-700'>Courses</a></li>
                 <li><a href="#" className='hover:border-b-2 hover:border-purple-700'>tutorials</a></li>
