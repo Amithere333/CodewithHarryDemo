@@ -4,6 +4,8 @@ import Navbar2 from './components/Navbar2'
 import Hero from './components/Hero'
 import Course from './components/CourseSection/Course'
 import Testimonial from './components/Testimonial/Testimonial'
+import Footer from './components/Footer'
+
 
 const App = () => {
   return (
@@ -13,6 +15,8 @@ const App = () => {
     <Hero/>
     <Course/>
     <Testimonial/>
+    <Footer/>
+
     </>
   )
 }

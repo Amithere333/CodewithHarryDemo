@@ -1,0 +1,4 @@
+export const reviewData=[{feedback:"I don't have words to thank this man, I'm really grateful to have this channel and website in my daily routine. If you're a mere beginner, then you can trust this guy and can put your time into his content. I can assure you that it'll be worth it.", name:'Mohit Kumar', course:'Web Developer'},
+
+    {feedback:"For everyone who wants to level up their #Coding and #Dev skills - seriously, this channel is for you! Both basic and advanced stacks are covered on this channel, and one can learn according to his skill levels. And the icing on the cake is, everything is available for free.", name:"Ashutosh Sharma", course:'Web Developer'}
+]
